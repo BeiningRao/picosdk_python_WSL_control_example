@@ -8,7 +8,7 @@ This is an jupyter example for controlling Picoscope to collect specific wavefor
 
  Save this picosdk.ipynb in the picosdk-python-wrapper directory.
 
- ## Second stepselect
+ ## Second step
  !!! This exmaple(picosdk.ipynb) is particulrally for WSL (Ubuntu). You should firstly share and attach picoscope to WSL system then run it.
 
  ## Notes
