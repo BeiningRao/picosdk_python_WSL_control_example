@@ -18,3 +18,12 @@ This is a jupyter example for controlling Picoscope to collect specific waveform
  **Note that in this case, an interpolation method was used to falsely increase the maximum resolution (4ns) of the four-channel simultaneous-enabled pico5444D.**
 
  Welcome to star my example!!!
+
+## picoDAQAssistant lib (Meng)
+Two examples are provided:  
+`pico5000RapidBlock.py`: basically copy from Beining's `picosdk.ipynb` while using the library to save waveform to CERN ROOT file.  
+The I/O structure is changed to numpy array instead of list to speed up data processing.
+
+`pico3000aBlock.py`: a block example using ps3000 series. A shorter example for easier understanding of how to use this lib.
+
+Detailed instruction to be finished yet..
