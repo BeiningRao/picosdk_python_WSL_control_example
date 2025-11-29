@@ -1,5 +1,5 @@
-# picosdk_python_WSL_control_example
-This is a jupyter example for controlling Picoscope to collect specific waveform and data. Specially developed for a positronium experiment in TDLI (Shanghai Jiao Tong University) by Beining Rao.
+# picosdk python control class guildance and example
+This is a jupyter example for controlling Picoscope to collect specific waveform and data. Specially developed for a positronium experiment in TDLI (Shanghai Jiao Tong University) by Beining Rao. Improved by University of Toyko Meng Lv and TDLI Junkai Huang.
 
 ## preparation: Connect Picoscope to WSL(eg.Ubuntu) [Thanks to Junkai to complete this guildance!]
 ### Install picoScope SDK and picosdk-python-wrappers in WSL
