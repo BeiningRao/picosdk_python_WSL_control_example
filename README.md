@@ -7,7 +7,9 @@ PicoSDK is a toolkit of C drivers that allow you to control your PicoScope using
 
 Please follow this instructions: picosdk-python-wrappers/ps5000aExamples/ps5000aStreamingExample.py at master · picotech/picosdk-python-wrappers · GitHub
 
-Note: There is currently a continuos develpment of pyPicoSDK, as on 24 Oct 2025, it do now support 5000 series. To compare, picosdk-python-wrappers are direct wrappers for each driver function in the PicoSDK, while pyPicoSDK is an updated wrapper that bundles all of the direct wrappers together into one group. It also adds built-in helper functions that reduce the complexity of some of the functions of PicoScopes (more pythonic). See https://www.picotech.com/library/knowledge-bases/oscilloscopes/pypicosdk-get-started and https://github.com/picotech/pyPicoSDK for more information. Please download the ps5000a branch for using pyPicoSDK.
+Note: There is currently a continuos develpment of pyPicoSDK, as on 24 Oct 2025, it do now support 5000 series. To compare, picosdk-python-wrappers are direct wrappers for each driver function in the PicoSDK, while pyPicoSDK is an updated wrapper that bundles all of the direct wrappers together into one group. It also adds built-in helper functions that reduce the complexity of some of the functions of PicoScopes (more pythonic). See https://www.picotech.com/library/knowledge-bases/oscilloscopes/pypicosdk-get-started 
+and https://github.com/picotech/pyPicoSDK 
+for more information. Please download the ps5000a branch for using pyPicoSDK.
 
 references:
 
