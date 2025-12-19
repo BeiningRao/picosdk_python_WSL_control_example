@@ -84,7 +84,7 @@ Reference: Connect USB devices | Microsoft Learn
  This example shows how to give Channel A and B an "AND" logic as a trigger with the use of rapid capture, following with Channel C and D valid waveform selection with 1 microsecond time window in a temporary data buffer zone and then save them.
  **Note that in this case, an interpolation method was used to falsely increase the maximum resolution (4ns) of the four-channel simultaneous-enabled pico5444D.**
 
- Welcome to star my example!!!
+
 
 ## picoDAQAssistant lib (Meng)
 Two examples are provided:  
