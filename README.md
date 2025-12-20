@@ -94,3 +94,6 @@ The I/O structure is changed to numpy array instead of list to speed up data pro
 `pico3000aBlock.py`: a block example using ps3000 series. A shorter example for easier understanding of how to use this lib.
 
 Detailed instruction to be finished yet..
+
+## single channel signal collection code for Ps5000a(Beining)
+Added at 12/19/2025.A jupyter temple based on picoDAQAssistant. Notes that the time resolution for one channel is 1ns, but for two channels, it should be 2ns.
